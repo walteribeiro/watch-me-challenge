@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> Task Manager Challenge
+> Watch Me Challenge
 
 ### 🏠 [Homepage](https://github.com/walteribeiro/watch-me-challenge#readme)
 
@@ -30,11 +30,8 @@ yarn build
 ```sh
 yarn dev
 ```
-
-## Run tests
-
 ```sh
-yarn test
+yarn server
 ```
 
 ## Author
